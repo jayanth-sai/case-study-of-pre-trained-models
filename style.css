@@ -1,0 +1,42 @@
+h1{
+  font-weight: bold;
+
+}
+
+#body{
+    border-width: 20px ;
+    border-color: black;
+    background-color: chartreuse;
+   
+
+}
+#mobile{
+    background-color: aliceblue;
+    margin-top: 100px;
+    width: 950;
+    border-width: 2px ;
+    border-style: solid;
+    border-color: black;
+   
+}
+
+
+#bottle{
+    margin-top: 100px;
+    width: 950;
+    border-width: 2px ;
+    border-style: solid;
+    border-color: black;
+  
+}
+
+
+
+#watch{
+    margin-top: 100px;
+    
+    width: 950;
+    border-width: 2px ;
+    border-style: solid;
+    border-color: black;
+}
